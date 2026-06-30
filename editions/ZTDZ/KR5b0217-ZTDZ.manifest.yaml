@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0217/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0217/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 黃籙九幽醮無礙夜齋次第儀
+  date: '2015-08-29 00:14:22.021694'
+  source:
+    repository: kanripo
+    path: KR5b0217
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0217_000-ZTDZ.yaml, hash: 'sha256:6f4d0f6b1a611e00b77d4f4e669c57cfa42ce0e32a532d58251de7f6a47a9ce8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0217_000-ZTDZ.markers.yaml, hash: 'sha256:dbdb29b3c1bf79a7e82577bc5eeb3c963125dadd04d43170f693866389f175c7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0217_SJB_000-090747a
+    span:
+    - body
+    - 0
+    - 7049
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:67d71ab60ddc419fc3b270e052ad9539037328221630647a2f804f0df7bf1f74
